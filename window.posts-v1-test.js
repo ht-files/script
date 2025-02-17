@@ -1,0 +1,4 @@
+window.posts = [
+        { title: "10 Tips for a Healthier Diet", image: "https://storage.googleapis.com/a1aa/image/il9LyabQv8I2N_z0GMIkqaRxNknKUkuM29x1YRwxiHE.jpg", description: "Discover simple and effective tips to improve your diet and overall health.", url: "#", alt: "A colorful assortment of fresh fruits and vegetables arranged on a wooden table." },
+        { title: "Tips for Better Sleep", image: "https://storage.googleapis.com/a1aa/image/3vqPJK3vz_AL8une30dj0KpIm-yMoptisq44inxb3tE.jpg", description: "Improve your sleep quality with these effective tips.", url: "#", alt: "A person sleeping peacefully in a cozy bed with soft lighting." },
+    ];
